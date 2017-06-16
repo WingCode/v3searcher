@@ -1,3 +1,7 @@
+python==2.7.12
+tweepy==3.5.0
+requests==2.14.2
+requests-oauthlib==0.8.0
 dj-database-url==0.4.1
 Django==1.9.7
 gunicorn==19.6.0
